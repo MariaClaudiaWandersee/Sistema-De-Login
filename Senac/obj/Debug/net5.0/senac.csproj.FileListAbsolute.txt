@@ -1,0 +1,12 @@
+C:\Users\maria.wandersee\Desktop\Sistema-De-Login\senac\bin\Debug\net5.0\senac.deps.json
+C:\Users\maria.wandersee\Desktop\Sistema-De-Login\senac\bin\Debug\net5.0\senac.dll
+C:\Users\maria.wandersee\Desktop\Sistema-De-Login\senac\bin\Debug\net5.0\ref\senac.dll
+C:\Users\maria.wandersee\Desktop\Sistema-De-Login\senac\bin\Debug\net5.0\senac.pdb
+C:\Users\maria.wandersee\Desktop\Sistema-De-Login\senac\obj\Debug\net5.0\senac.csproj.AssemblyReference.cache
+C:\Users\maria.wandersee\Desktop\Sistema-De-Login\senac\obj\Debug\net5.0\senac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.wandersee\Desktop\Sistema-De-Login\senac\obj\Debug\net5.0\senac.AssemblyInfoInputs.cache
+C:\Users\maria.wandersee\Desktop\Sistema-De-Login\senac\obj\Debug\net5.0\senac.AssemblyInfo.cs
+C:\Users\maria.wandersee\Desktop\Sistema-De-Login\senac\obj\Debug\net5.0\senac.csproj.CoreCompileInputs.cache
+C:\Users\maria.wandersee\Desktop\Sistema-De-Login\senac\obj\Debug\net5.0\senac.dll
+C:\Users\maria.wandersee\Desktop\Sistema-De-Login\senac\obj\Debug\net5.0\ref\senac.dll
+C:\Users\maria.wandersee\Desktop\Sistema-De-Login\senac\obj\Debug\net5.0\senac.pdb
